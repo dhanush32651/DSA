@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush32651/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/dhanush32651/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/dhanush32651/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/dhanush32651/DSA/tree/master/0542-01-matrix) |
 ## Dynamic Programming
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/dhanush32651/DSA/tree/master/1763-longest-nice-substring) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/dhanush32651/DSA/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/dhanush32651/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
