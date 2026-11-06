@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush32651/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dhanush32651/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/dhanush32651/DSA/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dhanush32651/DSA/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/dhanush32651/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhanush32651/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1763-longest-nice-substring](https://github.com/dhanush32651/DSA/tree/master/1763-longest-nice-substring) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/dhanush32651/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dhanush32651/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1763-longest-nice-substring](https://github.com/dhanush32651/DSA/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dhanush32651/DSA/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/dhanush32651/DSA/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/dhanush32651/DSA/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
